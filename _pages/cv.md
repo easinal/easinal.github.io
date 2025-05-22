@@ -1,64 +1,99 @@
 ---
 layout: archive
-title: "CV"
+title: "Zijin Wan"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**Phone:** (951) 548-4355  
+**Email:** [zijin.wan@email.ucr.edu](mailto:zijin.wan@email.ucr.edu)  
+**LinkedIn:** [linkedin.com/in/zijin-wan-5ab6b2216](https://www.linkedin.com/in/zijin-wan-5ab6b2216/)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**University of California, Riverside**  
+*Ph.D. in Computer Science, Expected August 2027*  
+Cumulative GPA: 3.89/4.0  
+Advisors: Prof. Yan Gu and Prof. Yihan Sun
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Xidian University**  
+*Bachelor in Software Engineering, 2018 -- 2022*  
+Cumulative GPA: 3.7/4.0
+
+---
+
+## Project and Research Experience
+
+**University of California, Riverside**  
+*Research Assistant, Dec 2021 -- Present*
+
+- **Parallel Contraction Hierarchies:** Proposed a parallel algorithm for constructing contraction hierarchies, one of the most widely used shortest path algorithms. Implemented the algorithm, achieving an average 10x speedup over the state-of-the-art (SOTA) parallel baseline while maintaining competitive query performance. To be appear in ICS’25.  
+  [GitHub Repo](https://github.com/ucrparlay/Parallel-Contraction-Hierarchy)
+  [arXiv](https://arxiv.org/abs/2412.18008)
+
+- **Parallel Longest Increasing Subsequence:**  Developed a parallel algorithm for LIS with optimal work and non-trivial parallelism. Its implementation achieves a 2.5x speedup over the SOTA parallel baseline. Published in SPAA’23.  
+  [GitHub Repo](https://github.com/ucrparlay/Parallel-LIS)
+  [arXiv](https://arxiv.org/abs/2208.09809)
+
+
+- **Parallel Huffman Tree:** Studied and implemented the first publicly available parallel algorithm for constructing huffman tree using C++, achieving 10--20x speedups compared to the SOTA sequential baseline. Published in SPAA’22.
+  [GitHub Repo](https://github.com/Easinal/huff_para)
+  [arXiv](https://arxiv.org/abs/2205.13077)
+
+
+---
+
+## Skills
+
+- **Programming:** C, C++, Bash, Python, Java
+- **Systems:** Multithreaded Programming, Distributed Systems, GPU Programming
+- **Web:** HTML5, PHP, Typescript, CSS, Angular, JavaScript
+- **Misc:** Git, CMake, gdb, Docker, OpenMP, Pandas, Matplotlib, LaTeX
+- **Databases:** SQL, MySQL
+- **Languages:** English (fluent), Mandarin (native), Japanese (intermediate)
+
+---
+
+## Honors and Awards
+
+- **Best Paper Award**, ICS'25  
+- **UCR GSA Travel Grants**, SPAA'22 and SPAA'23  
+- **Dean's Distinguished Fellowship**, UCR  
+- **First Prize (Sole Winner)**, Xidian Exchange Student Scholarship  
+- **Second Prize Scholarship** (Top 10%), Xidian University  
+- **National Scholarship** (Top 1%)
+
+---
+
+## Publications
+
+- **[Parallel Contraction Hierarchies Can Be Efficient and Scalable](https://arxiv.org/abs/2412.18008)**  
+  <strong><u>Zijin Wan</u></strong>, Xiaojun Dong, Letong Wang, Enzuo Zhu, Yan Gu, Yihan Sun  
+  *Proceedings of the 38th ACM International Conference on Supercomputing (ICS 2025)*
+
+- **[Parallel Longest Increasing Subsequence and van Emde Boas Trees](https://arxiv.org/abs/2208.09809)**  
+  Yan Gu, Ziyang Men, Zheqi Shen, Yihan Sun, <strong><u>Zijin Wan</u></strong>  
+  *Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2023)*
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **[Many Sequential Iterative Algorithms Can Be Parallel and (Nearly) Work-efficient](https://arxiv.org/abs/2205.13077)**  
+  Zheqi Shen, <strong><u>Zijin Wan</u></strong>, Yan Gu, Yihan Sun  
+  *Proceedings of the 34th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2022)*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Teaching Assistantship
+
+- **CS141:** Intermediate Data Structures and Algorithms (Fall 2024)  
+- **CS214:** Parallel Algorithms (Winter 2025)  
+- **CS218:** Design and Analysis of Algorithms (Spring 2023, Winter 2024, Spring 2024, Spring 2025)
+
+---
+
+## Professional Services
+
+- *External Reviewer*, ALENEX'24  
+- *External Reviewer*, SPAA'23
