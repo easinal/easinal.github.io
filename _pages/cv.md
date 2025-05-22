@@ -31,7 +31,7 @@ Cumulative GPA: 3.7/4.0
 **University of California, Riverside**  
 *Research Assistant, Dec 2021 -- Present*
 
-- **Parallel Contraction Hierarchies:** Proposed a parallel algorithm for constructing contraction hierarchies, one of the most widely used shortest path algorithms. Implemented the algorithm, achieving an average 10x speedup over the state-of-the-art (SOTA) parallel baseline while maintaining competitive query performance. To be appear in ICS’25.  
+- **Parallel Contraction Hierarchies:** Proposed a parallel algorithm for constructing contraction hierarchies, one of the most widely used shortest path algorithms. Implemented the algorithm, achieving an average 10x speedup over the state-of-the-art (SOTA) parallel baseline while maintaining competitive query performance. To be appeared in ICS’25.  
   [GitHub Repo](https://github.com/ucrparlay/Parallel-Contraction-Hierarchy)
   [arXiv](https://arxiv.org/abs/2412.18008)
 
