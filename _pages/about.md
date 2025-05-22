@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! 👋 I am a third-year Ph.D. candidate in the [CSE](https://www1.cs.ucr.edu) department at the University of California, Riverside. I work in the [Parallel Algorithms Lab at UCR (UCRPAL)](https://pal.cs.ucr.edu/index.html). I am fortunate to be advised by [Dr. Yan Gu](https://www.cs.ucr.edu/~ygu/) and [Dr. Yihan Sun](https://www.cs.ucr.edu/~yihans/). Before coming to UCR, I earned my Bachelor's degree in Software Engineering from Xidian University in 2022.
+Hi there! 👋 I am a third-year Ph.D. candidate in the [CSE](https://www1.cs.ucr.edu) department at the University of California, Riverside. I am fortunate to be advised by [Dr. Yan Gu](https://www.cs.ucr.edu/~ygu/) and [Dr. Yihan Sun](https://www.cs.ucr.edu/~yihans/), and to conduct my research in the [Parallel Algorithms Lab at UCR (UCRPAL)](https://pal.cs.ucr.edu/index.html). Before coming to UCR, I earned my Bachelor's degree in Software Engineering from Xidian University in 2022.
 
 I am interested in the theory and practice of parallel computing, particularly on shared-memory multi-core machines. My research focuses on designing parallel algorithms that achieve both improved theoretical bounds and strong practical performance.
 
