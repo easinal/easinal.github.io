@@ -75,13 +75,14 @@ Cumulative GPA: 3.7/4.0
   <strong><u>Zijin Wan</u></strong>, Xiaojun Dong, Letong Wang, Enzuo Zhu, Yan Gu, Yihan Sun  
   *Proceedings of the 38th ACM International Conference on Supercomputing (ICS 2025)*
 
-- **[Parallel Longest Increasing Subsequence and van Emde Boas Trees](https://arxiv.org/abs/2208.09809)**  
-  Yan Gu, Ziyang Men, Zheqi Shen, Yihan Sun, <strong><u>Zijin Wan</u></strong>  
+- **[Parallel Longest Increasing Subsequence and van Emde Boas Trees](https://dl.acm.org/doi/10.1145/3558481.3591069)**  
+  Yan Gu, Ziyang Men, Zheqi Shen, Yihan Sun, <strong><u>Zijin Wan</u></strong>  (alphabetical order)  
   *Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2023)*
   
-- **[Many Sequential Iterative Algorithms Can Be Parallel and (Nearly) Work-efficient](https://arxiv.org/abs/2205.13077)**  
+- **[Many Sequential Iterative Algorithms Can Be Parallel and (Nearly) Work-efficient](https://dl.acm.org/doi/10.1145/3490148.3538574)**  
   Zheqi Shen, <strong><u>Zijin Wan</u></strong>, Yan Gu, Yihan Sun  
   *Proceedings of the 34th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2022)*
+
 
 ---
 

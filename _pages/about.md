@@ -18,7 +18,7 @@ I am interested in the theory and practice of parallel computing, particularly o
   *Proceedings of the 38th ACM International Conference on Supercomputing (ICS 2025)*
 
 - **[Parallel Longest Increasing Subsequence and van Emde Boas Trees](https://dl.acm.org/doi/10.1145/3558481.3591069)**  
-  Yan Gu, Ziyang Men, Zheqi Shen, Yihan Sun, <strong><u>Zijin Wan</u></strong>  
+  Yan Gu, Ziyang Men, Zheqi Shen, Yihan Sun, <strong><u>Zijin Wan</u></strong>  (alphabetical order)  
   *Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2023)*
   
 - **[Many Sequential Iterative Algorithms Can Be Parallel and (Nearly) Work-efficient](https://dl.acm.org/doi/10.1145/3490148.3538574)**  
