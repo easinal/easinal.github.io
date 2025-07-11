@@ -60,7 +60,7 @@ Cumulative GPA: 3.7/4.0
 
 ## Honors and Awards
 
-- **Best Paper Award**, ICS'25  
+- **Best Paper Finalist**, ICS'25  
 - **UCR GSA Travel Grants**, SPAA'22 and SPAA'23  
 - **Dean's Distinguished Fellowship**, UCR  
 - **First Prize (Sole Winner)**, Xidian Exchange Student Scholarship  
